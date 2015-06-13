@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CellDisplayedRegPanelCount</key>
+	<string>2</string>
+	<key>CellNotSentCount</key>
+	<string>3</string>
+	<key>CellRegistration</key>
+	<string>Sch&ouml;ne Gr&uuml;&szlig;e</string>
+	<key>CellRegSent</key>
+	<string>YES</string>
+</dict>
+</plist>
